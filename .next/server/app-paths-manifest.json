@@ -1,0 +1,6 @@
+{
+  "/author/page": "app/author/page.js",
+  "/collection/page": "app/collection/page.js",
+  "/upload-item/page": "app/upload-item/page.js",
+  "/(homes)/page": "app/(homes)/page.js"
+}
